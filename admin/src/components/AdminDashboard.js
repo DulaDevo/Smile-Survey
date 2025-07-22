@@ -685,7 +685,7 @@ const AdminDashboard = () => {
       : 'text-gray-600 hover:bg-gray-100'
     }`}
     >
-    Questions
+    Send Questions
     </button>
     
     <button
