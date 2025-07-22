@@ -315,7 +315,7 @@ const SurveyUserPanel = () => {
     {/* Header */}
     <div className="text-center mb-8">
     <h1 className="text-5xl font-bold text-white mb-2 drop-shadow-lg">
-    Quick Survey
+    Happiness Survey
     </h1>
     <p className="text-white text-2xl drop-shadow-md opacity-90">{department} Department</p>
     <div className="w-20 h-1 bg-white bg-opacity-50 mx-auto mt-4 rounded-full"></div>
